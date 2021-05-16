@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcus02Vinnicius
-- 👀 I’m interested in JavaScript (React, React-native e Electron) , SQL/NoSql.
+- 👀 I’m interested in Mobile and Web Development using Javascript.
 - 🌱 I’m currently learning Gitflow and server-side
 - 💞️ I'm working on projects using HTML, CSS and Javascript
 - 📫 How to reach me marcus.vinnicius02@gmail.com
